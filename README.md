@@ -1,13 +1,17 @@
-# Homework1: Code Refractor
+Code Refractor
 
-This week's homework Repository deals with Website Accessibility. Our primary task was to edit the code in order for the webpage to become more accessible to the reader. 
-Some of the alterations included the following: 
+My project's main focus was to tackle website accessibility and to create code that follows accessibility standards. I wanted to develop this webpage in a way that allows any individual to access and understand the content in which they are interacting with. My other main objective was to make the code accessible so that the website is optimized for search engines.    
+
+To make the site more accessible, I included the following in the code: 
 * Alt Tags: Giving images a unique description to the reader.
-* <section> tags: Improving the source code to a semantic HTML design.
+* Use of <section> and <nav> tags: Improving the source code to a semantic HTML design.
 * Order: Improving the source code's use of H1, H2, H3 tags to ensure that the page followed a logical structure.
 * CSS:  Editing the style sheet to ensure that the updated CSS file was in sync with the updated HTML file.
+* Links: Built a desing in which each link functions properly.
 
-Ultimately I want to improve upon my skills as I work with new repositories but I beleive that this project was a good start. 
+One of the main highlights of this project is it's organization. I decided to consolidate the CSS so that it was easier to read without desrupting the page's functionality. I also added in multiple comments within the HTML to identify specific parts of the page. 
+
+I think I was most challenged with consolidating items and when to do so. I didn't want to disrupt the web pages functionality so I spent a lot of time navigating through my CSS to ensure my changes weren't effecting the web page.  
 
 
 

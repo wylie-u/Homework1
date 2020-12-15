@@ -9,9 +9,8 @@ To make the site more accessible, I included the following in the code:
 * CSS:  Editing the style sheet to ensure that the updated CSS file was in sync with the updated HTML file.
 * Links: Built a desing in which each link functions properly.
 
-One of the main highlights of this project is it's organization. I decided to consolidate the CSS so that it was easier to read without desrupting the page's functionality. I also added in multiple comments within the HTML to identify specific parts of the page. 
+One of the main highlights of this project is it's organization. I decided to consolidate the CSS so that it was easier to read without desrupting the page's functionality. I also added in multiple comments within the HTML to identify specific parts of the page. I think I was most challenged with consolidating items and when to do so. I didn't want to disrupt the web pages functionality so I only grouped together items that contained the same values. 
 
-I think I was most challenged with consolidating items and when to do so. I didn't want to disrupt the web pages functionality so I spent a lot of time navigating through my CSS to ensure my changes weren't effecting the web page.  
 
 
 

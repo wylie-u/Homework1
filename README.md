@@ -4,7 +4,7 @@ My project's main focus was to tackle website accessibility and to create code t
 
 To make the site more accessible, I included the following in the code: 
 * Alt Tags: Giving images a unique description to the reader.
-* Use of <section>, <figure>, <aside> and <nav> tags: Improving the source code to a semantic HTML design.
+* Use of 'section,' 'aside,' and 'nav' tags: Improving the source code to a semantic HTML design.
 * Order: Improving the source code's use of H1, H2, H3 tags to ensure that the page followed a logical structure.
 * CSS:  Editing the style sheet to ensure that the updated CSS file was in sync with the updated HTML file.
 * Links: Built a desing in which each link functions properly.

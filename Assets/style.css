@@ -59,7 +59,7 @@ main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    font-size: 16px;
+    
 
 }
 /* img float attributes */
@@ -81,14 +81,15 @@ figure {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    font-size: 16px;
     
 }
 /* img style */
-figure img {
+Figure img {
     max-height: 200px;
          
 }
-/*main h2 styles */
+/* figure h2 styles */
 figure h2 {
     margin-bottom: 20px;
     font-size: 36px;
